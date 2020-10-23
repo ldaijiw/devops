@@ -61,3 +61,17 @@ Cloud computing is the on-demand availability of computer system resources, espe
 - Software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted
 - Often accessed using a 'thin client' (e.g. web browser) 
 - Examples include office software, messaging software, CAD software, and many more.
+
+
+**PAAS**
+- Platform as a Service
+- Provides a platform to allow customers to develop, run, and manage applications
+- Without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+
+**IAAS**
+- Infrastructure as a Service 
+- Instant computing infrastructure, provisioned, and managed over the internet.
+
+
+![](images/Comparison-Table.png)
