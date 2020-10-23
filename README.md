@@ -79,3 +79,8 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 **In computer networking, localhost is a host name that refers to the local computer that a program is running on.**
 
+**On-premises software (on-prem) is installed and runs on computers on the premises of the person or organization using the software, rather than at a remote facility such as a server farm or cloud.**
+
+**Public cloud is a type of computing in which a service provider makes resources available to the public via the internet.**
+
+**Hybrid cloud refers to a mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud services, and a public cloud (such as AWS or Azure) with orchestration among the various platforms."
