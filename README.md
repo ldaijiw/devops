@@ -75,3 +75,7 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 
 ![](images/Comparison-Table.png)
+
+
+**In computer networking, localhost is a host name that refers to the local computer that a program is running on.**
+
