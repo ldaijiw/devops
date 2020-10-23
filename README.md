@@ -83,4 +83,4 @@ Cloud computing is the on-demand availability of computer system resources, espe
 
 **Public cloud is a type of computing in which a service provider makes resources available to the public via the internet.**
 
-**Hybrid cloud refers to a mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud services, and a public cloud (such as AWS or Azure) with orchestration among the various platforms."
+**Hybrid cloud refers to a mixed computing, storage, and services environment made up of on-premises infrastructure, private cloud services, and a public cloud (such as AWS or Azure) with orchestration among the various platforms.**
