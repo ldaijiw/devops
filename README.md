@@ -42,3 +42,22 @@ There are numerous tools that a DevOps team would use. These tools enable the te
 - Containerization tool, makes distributed development possible as well as automating the deployment of apps
 - Isolates applications into separate containers, so they become portable and secure
 - Allows for packaging dependencies within the app's container and ship the whole item as an independent unit
+
+**Puppet**
+- Cross-platform configuration management platform
+- Manage **I**nfrastructure **A**s **C**ode, automates infrastructure management allowing to deliver software faster and more securely.
+
+**Ansible**
+- Configuration management tool, following IAC approach
+- Uses simple YAML syntax
+- No daemons or agents run in the background, making Ansible a secure and lightweight solution
+
+## Cloud Computing
+
+Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.
+
+**SAAS**
+- Software as a Service
+- Software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted
+- Often accessed using a 'thin client' (e.g. web browser) 
+- Examples include office software, messaging software, CAD software, and many more.
